@@ -5,7 +5,6 @@ import logoFull from "@/assets/raya-logo-full.png";
 const navLinks = [
   { label: "Home", href: "/#home" },
   { label: "Collections", href: "/#collections" },
-  { label: "Engagement", href: "/collection/engagement-rings" },
   { label: "Custom", href: "/#custom" },
   { label: "Visit Store", href: "/#showroom" },
   { label: "Contact", href: "/#contact" },
